@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Group of group Suite]">
+  <parameter name="BrowserName" value="firefox"/>
+  <test name="SimpleParamExample(failed)" preserve-order="true">
+    <parameter name="BrowserName" value="firefox"/>
+    <classes>
+      <class name="com.guru99.tests.Test99GuruHomePage">
+        <methods>
+          <include name="test_Home_Page_DashBoard_UserName"/>
+          <include name="setUp"/>
+          <include name="teardown"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

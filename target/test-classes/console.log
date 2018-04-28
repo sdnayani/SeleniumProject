@@ -1,0 +1,346 @@
+INFO  2011-02-03 11:07:40,090: Default Java VM encoding: Cp1252
+INFO  2011-02-03 11:07:40,199: Configuring SSL encrypted communication to application server.
+INFO  2011-02-03 11:07:40,199: Initializing XML-RPC client to URL: https://pier1.hq.sensage.com:443/SenSageWebServices/ServerServlet
+INFO  2011-02-03 11:07:40,293: SessionClient#getVendorProperties()
+INFO  2011-02-03 11:07:40,668: Launching SenSage version 4.5 build #66215
+INFO  2011-02-03 11:07:40,668: SessionClient#getLocale()
+INFO  2011-02-03 11:07:40,699: Using locale: en_US
+INFO  2011-02-03 11:07:40,824: Using auth.handler.class=com.sensage.console.swing.loginpanel.DefaultAuthHandler
+INFO  2011-02-03 11:07:40,855: SessionClient#getSLSList()
+INFO  2011-02-03 11:09:09,746: SessionClient#authenticate() username:administrator, SLS:sls
+INFO  2011-02-03 11:09:13,590: User session will auto-logout if inactive for 600 seconds.
+INFO  2011-02-03 11:09:13,605: Login success for user: administrator
+INFO  2011-02-03 11:09:13,824: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:09:16,449: ReportClientImpl#getAlertColumnReports()
+INFO  2011-02-03 11:09:16,637: ReportClientImpl#getNamespaces()
+INFO  2011-02-03 11:09:17,715: UserClientImpl#getUsers()
+INFO  2011-02-03 11:09:18,418: DashboardClientImpl#getDashboardItems()
+INFO  2011-02-03 11:09:18,433: ReportClientImpl#getReportDefinitions()
+INFO  2011-02-03 11:09:21,246: UserClientImpl#getUserPreferences()
+INFO  2011-02-03 11:09:54,824: ReportClientImpl#getReportDefinitions()
+INFO  2011-02-03 11:09:54,840: ReportClientImpl#getReportFolders()
+INFO  2011-02-03 11:09:54,855: ReportClientImpl#getLibraries()
+INFO  2011-02-03 11:10:04,058: SecurityClientImpl#hasPermission()
+WARN  2011-02-03 11:10:04,074: Calling remote service on Event Dispatch Thread: [com.sensage.console.framework.security.SecurityHelper#hasWritePerm():81]
+INFO  2011-02-03 11:10:04,137: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:10:04,137: UserClientImpl#getRoles()
+INFO  2011-02-03 11:10:04,512: ReportClientImpl#getReportDefinitions()
+INFO  2011-02-03 11:10:04,793: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 11:23:06,902: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 11:23:07,105: SecurityClientImpl#hasPermission()
+WARN  2011-02-03 11:23:07,105: Calling remote service on Event Dispatch Thread: [com.sensage.console.framework.security.SecurityHelper#hasWritePerm():81]
+INFO  2011-02-03 11:23:10,449: Initializing legacy security connection
+INFO  2011-02-03 11:23:10,465: Initializing legacy security UI
+INFO  2011-02-03 11:32:13,980: Default Java VM encoding: Cp1252
+INFO  2011-02-03 11:32:14,058: Configuring SSL encrypted communication to application server.
+INFO  2011-02-03 11:32:14,105: Initializing XML-RPC client to URL: https://pier1.hq.sensage.com:443/SenSageWebServices/ServerServlet
+INFO  2011-02-03 11:32:14,199: SessionClient#getVendorProperties()
+INFO  2011-02-03 11:32:14,574: Launching SenSage version 4.5 build #66215
+INFO  2011-02-03 11:32:14,574: SessionClient#getLocale()
+INFO  2011-02-03 11:32:14,590: Using locale: en_US
+INFO  2011-02-03 11:32:14,715: Using auth.handler.class=com.sensage.console.swing.loginpanel.DefaultAuthHandler
+INFO  2011-02-03 11:32:14,730: SessionClient#getSLSList()
+INFO  2011-02-03 11:32:23,824: SessionClient#authenticate() username:administrator, SLS:sls
+INFO  2011-02-03 11:32:28,074: User session will auto-logout if inactive for 600 seconds.
+INFO  2011-02-03 11:32:28,090: Login success for user: administrator
+INFO  2011-02-03 11:32:28,183: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:32:30,480: ReportClientImpl#getAlertColumnReports()
+INFO  2011-02-03 11:32:30,637: ReportClientImpl#getNamespaces()
+INFO  2011-02-03 11:32:31,605: UserClientImpl#getUsers()
+INFO  2011-02-03 11:32:32,246: DashboardClientImpl#getDashboardItems()
+INFO  2011-02-03 11:32:32,277: ReportClientImpl#getReportDefinitions()
+INFO  2011-02-03 11:32:32,621: UserClientImpl#getUserPreferences()
+INFO  2011-02-03 11:32:52,621: SessionClient#logout() user: administrator
+INFO  2011-02-03 11:33:04,152: Default Java VM encoding: Cp1252
+INFO  2011-02-03 11:33:04,215: Configuring SSL encrypted communication to application server.
+INFO  2011-02-03 11:33:04,246: Initializing XML-RPC client to URL: https://pier1.hq.sensage.com:443/SenSageWebServices/ServerServlet
+INFO  2011-02-03 11:33:04,355: SessionClient#getVendorProperties()
+INFO  2011-02-03 11:33:04,699: Launching SenSage version 4.5 build #66215
+INFO  2011-02-03 11:33:04,715: SessionClient#getLocale()
+INFO  2011-02-03 11:33:04,730: Using locale: en_US
+INFO  2011-02-03 11:33:04,855: Using auth.handler.class=com.sensage.console.swing.loginpanel.DefaultAuthHandler
+INFO  2011-02-03 11:33:04,871: SessionClient#getSLSList()
+INFO  2011-02-03 11:33:14,543: SessionClient#authenticate() username:srini, SLS:sls
+INFO  2011-02-03 11:33:18,199: User session will auto-logout if inactive for 600 seconds.
+INFO  2011-02-03 11:33:18,308: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:33:20,887: ReportClientImpl#getAlertColumnReports()
+INFO  2011-02-03 11:33:21,058: ReportClientImpl#getNamespaces()
+INFO  2011-02-03 11:33:22,199: No window state found -- using default size and position.
+INFO  2011-02-03 11:33:22,543: Login success for user: srini
+INFO  2011-02-03 11:33:22,574: ReportClientImpl#getReportFolders()
+INFO  2011-02-03 11:33:22,590: ReportClientImpl#getLibraries()
+INFO  2011-02-03 11:33:22,590: ReportClientImpl#getReportDefinitions()
+INFO  2011-02-03 11:33:22,965: UserClientImpl#getUserPreferences()
+INFO  2011-02-03 11:50:50,949: SessionClient#logout() user: administrator
+INFO  2011-02-03 11:50:53,933: SessionClient#logout() user: srini
+INFO  2011-02-03 11:52:05,465: Default Java VM encoding: Cp1252
+INFO  2011-02-03 11:52:05,543: Configuring SSL encrypted communication to application server.
+INFO  2011-02-03 11:52:05,543: Initializing XML-RPC client to URL: https://qacluster02.cbsf.sensage.com:443/appmanager/ServerServlet
+INFO  2011-02-03 11:52:05,668: SessionClient#getVendorProperties()
+INFO  2011-02-03 11:52:05,980: Launching SenSage version 4.6 build #72222
+INFO  2011-02-03 11:52:05,980: SessionClient#getLocale()
+INFO  2011-02-03 11:52:06,012: Using locale: en_US
+INFO  2011-02-03 11:52:06,137: Using auth.handler.class=com.sensage.console.swing.loginpanel.DefaultAuthHandler
+INFO  2011-02-03 11:52:06,152: SessionClient#getSLSList()
+INFO  2011-02-03 11:52:27,808: SessionClient#authenticate() username:administrator, SLS:sls
+INFO  2011-02-03 11:52:28,105: Auto-logout on user idle is disabled.
+INFO  2011-02-03 11:52:28,121: Login success for user: administrator
+INFO  2011-02-03 11:52:28,215: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:52:28,262: UserClientImpl#isAdminUser()
+INFO  2011-02-03 11:52:29,512: ReportClientImpl#getAlertColumnReports()
+INFO  2011-02-03 11:52:29,558: UserClientImpl#getRoles()
+INFO  2011-02-03 11:52:29,621: ReportClientImpl#searchDistributionFilters()
+INFO  2011-02-03 11:52:29,777: ReportClientImpl#getNamespaces()
+INFO  2011-02-03 11:52:30,355: ReportClientImpl#searchDistributionFilters()
+INFO  2011-02-03 11:52:30,621: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:52:30,808: ReportClientImpl#getReportFolders()
+INFO  2011-02-03 11:52:30,887: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:52:31,043: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:52:31,262: UserClientImpl#getUsers()
+INFO  2011-02-03 11:52:31,949: DashboardClientImpl#getDashboardItems()
+INFO  2011-02-03 11:52:31,980: ReportClientImpl#searchReports()
+INFO  2011-02-03 11:52:32,027: DashboardClientImpl#getFolderItems()
+INFO  2011-02-03 11:52:32,230: DashboardClientImpl#getFolderItems()
+INFO  2011-02-03 11:52:32,699: UserClientImpl#getUserPreferences()
+INFO  2011-02-03 11:52:33,199: DashboardClientImpl#getFolderItems()
+INFO  2011-02-03 11:52:33,433: DashboardClientImpl#getFolderItems()
+INFO  2011-02-03 11:52:33,527: DashboardClientImpl#getFolderItems()
+INFO  2011-02-03 11:52:33,668: DashboardClientImpl#getFolderItems()
+INFO  2011-02-03 11:52:37,121: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 11:52:37,121: ReportClientImpl#searchDistributionFilters()
+WARN  2011-02-03 11:52:37,121: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.optionsdrawer.DistFilterView#getFiltersFromServer():473]
+INFO  2011-02-03 11:52:37,152: ReportClientImpl#getReportFolders()
+INFO  2011-02-03 11:52:37,168: ReportClientImpl#getLibraries()
+INFO  2011-02-03 11:52:37,293: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:52:37,543: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:52:40,965: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:52:40,996: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:52:40,996: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:52:40,996: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:52:40,996: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:52:40,980: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:52:41,012: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:52:44,355: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:52:44,355: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:52:44,371: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:52:44,387: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:52:58,793: UserClientImpl#getRoles()
+WARN  2011-02-03 11:52:58,793: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#initComponents():933]
+INFO  2011-02-03 11:52:58,855: UserClientImpl#getUsers()
+WARN  2011-02-03 11:52:58,855: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#initComponents():963]
+INFO  2011-02-03 11:52:58,902: UserClientImpl#getUsers()
+WARN  2011-02-03 11:52:58,902: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#initComponents():1048]
+INFO  2011-02-03 11:52:58,949: SecurityClientImpl#getSlsPermissions()
+WARN  2011-02-03 11:52:58,949: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#getActions():370]
+INFO  2011-02-03 11:52:59,262: ReportClientImpl#getNamespaces()
+WARN  2011-02-03 11:52:59,262: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#getNamespaces():387]
+INFO  2011-02-03 11:53:00,090: UserClientImpl#getRoles()
+WARN  2011-02-03 11:53:00,090: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#initComponents():1257]
+INFO  2011-02-03 11:53:02,465: UserClientImpl#getUsers()
+WARN  2011-02-03 11:53:02,465: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#refreshUsersMode():1563]
+INFO  2011-02-03 11:53:02,512: UserClientImpl#getRoles()
+WARN  2011-02-03 11:53:02,512: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#refreshUsersMode():1565]
+INFO  2011-02-03 11:53:26,902: UserClientImpl#createUser()
+WARN  2011-02-03 11:53:26,902: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#newUserMenuItemActionPerformed():1941]
+INFO  2011-02-03 11:53:28,121: UserClientImpl#getUsers()
+WARN  2011-02-03 11:53:28,121: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#refreshUsersMode():1563]
+INFO  2011-02-03 11:53:28,183: UserClientImpl#getRoles()
+WARN  2011-02-03 11:53:28,183: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#refreshUsersMode():1565]
+INFO  2011-02-03 11:53:28,246: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:53:30,668: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:53:31,512: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:53:32,168: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:53:32,637: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:53:33,137: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:53:36,183: UserClientImpl#getRoles()
+WARN  2011-02-03 11:53:36,183: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#refreshRolesMode():1516]
+INFO  2011-02-03 11:53:36,246: UserClientImpl#getUsers()
+WARN  2011-02-03 11:53:36,246: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#refreshRolesMode():1518]
+INFO  2011-02-03 11:53:36,371: SecurityClientImpl#getSlsPermissions()
+WARN  2011-02-03 11:53:36,371: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#getActions():370]
+INFO  2011-02-03 11:53:36,668: ReportClientImpl#getNamespaces()
+WARN  2011-02-03 11:53:36,668: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#getNamespaces():387]
+INFO  2011-02-03 11:53:39,058: UserClientImpl#getRoleUsers()
+INFO  2011-02-03 11:53:39,152: SecurityClientImpl#getRolesPermissions()
+INFO  2011-02-03 11:53:52,965: UserClientImpl#getUsers()
+WARN  2011-02-03 11:53:52,965: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#refreshUsersMode():1563]
+INFO  2011-02-03 11:53:53,012: UserClientImpl#getRoles()
+WARN  2011-02-03 11:53:53,012: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.security.SecurityPanel#refreshUsersMode():1565]
+INFO  2011-02-03 11:53:53,090: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:54:08,199: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:54:17,871: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:54:17,902: UserClientImpl#addRolesToUser()
+INFO  2011-02-03 11:54:41,137: Default Java VM encoding: Cp1252
+INFO  2011-02-03 11:54:41,215: Configuring SSL encrypted communication to application server.
+INFO  2011-02-03 11:54:41,215: Initializing XML-RPC client to URL: https://qacluster02.cbsf.sensage.com:443/appmanager/ServerServlet
+INFO  2011-02-03 11:54:41,324: SessionClient#getVendorProperties()
+INFO  2011-02-03 11:54:41,668: Launching SenSage version 4.6 build #72222
+INFO  2011-02-03 11:54:41,668: SessionClient#getLocale()
+INFO  2011-02-03 11:54:41,699: Using locale: en_US
+INFO  2011-02-03 11:54:41,871: Using auth.handler.class=com.sensage.console.swing.loginpanel.DefaultAuthHandler
+INFO  2011-02-03 11:54:41,887: SessionClient#getSLSList()
+INFO  2011-02-03 11:54:48,840: SessionClient#authenticate() username:srini, SLS:sls
+INFO  2011-02-03 11:54:49,168: Auto-logout on user idle is disabled.
+INFO  2011-02-03 11:54:49,183: Login success for user: srini
+INFO  2011-02-03 11:54:49,277: UserClientImpl#getUserRoles()
+INFO  2011-02-03 11:54:49,324: UserClientImpl#isAdminUser()
+INFO  2011-02-03 11:54:50,543: ReportClientImpl#getAlertColumnReports()
+INFO  2011-02-03 11:54:50,668: UserClientImpl#getRoles()
+INFO  2011-02-03 11:54:50,730: ReportClientImpl#searchDistributionFilters()
+INFO  2011-02-03 11:54:50,918: ReportClientImpl#getNamespaces()
+INFO  2011-02-03 11:54:51,324: ReportClientImpl#searchDistributionFilters()
+INFO  2011-02-03 11:54:51,777: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:54:51,902: ReportClientImpl#getReportFolders()
+INFO  2011-02-03 11:54:51,980: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:54:52,168: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:54:52,996: Login success for user: srini
+INFO  2011-02-03 11:54:52,996: Login success for user: srini
+INFO  2011-02-03 11:54:52,996: Login success for user: srini
+INFO  2011-02-03 11:54:52,996: Login success for user: srini
+INFO  2011-02-03 11:54:52,996: Login success for user: srini
+INFO  2011-02-03 11:54:52,996: Login success for user: srini
+INFO  2011-02-03 11:54:52,996: Login success for user: srini
+INFO  2011-02-03 11:54:53,012: Login success for user: srini
+INFO  2011-02-03 11:54:53,012: Login success for user: srini
+INFO  2011-02-03 11:54:53,027: ReportClientImpl#getReportFolders()
+INFO  2011-02-03 11:54:53,027: ReportClientImpl#searchDistributionFilters()
+WARN  2011-02-03 11:54:53,027: Calling remote service on Event Dispatch Thread: [com.sensage.console.swing.optionsdrawer.DistFilterView#getFiltersFromServer():473]
+INFO  2011-02-03 11:54:53,043: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 11:54:53,090: ReportClientImpl#getLibraries()
+INFO  2011-02-03 11:54:53,168: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:54:53,355: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:54:53,683: UserClientImpl#getUserPreferences()
+INFO  2011-02-03 11:54:59,605: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:54:59,621: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:54:59,621: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:54:59,605: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:54:59,605: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:54:59,605: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:54:59,621: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:55:01,433: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:55:01,433: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:55:01,433: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:55:01,433: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:55:08,777: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:55:08,777: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:55:08,777: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:55:14,433: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:55:14,433: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 11:55:22,824: SecurityClientImpl#getUserActions()
+WARN  2011-02-03 11:55:22,824: Calling remote service on Event Dispatch Thread: [com.sensage.console.framework.security.SecurityHelper#hasWritePerm():83]
+INFO  2011-02-03 11:55:22,902: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:55:22,918: UserClientImpl#getRoles()
+INFO  2011-02-03 11:55:23,074: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 11:55:23,074: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 11:55:24,371: SecurityClientImpl#getUserActions()
+WARN  2011-02-03 11:55:24,371: Calling remote service on Event Dispatch Thread: [com.sensage.console.framework.security.SecurityHelper#hasWritePerm():83]
+INFO  2011-02-03 11:55:24,433: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:55:24,558: SecurityClientImpl#getAllRolesAndPermissions()
+WARN  2011-02-03 11:55:24,605: Folder cannot be dragged into itself: McAfee
+INFO  2011-02-03 11:55:24,730: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 11:55:25,980: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 11:55:26,074: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 11:55:26,183: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:02:54,215: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:02:54,293: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:02:54,574: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:03:05,824: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:03:05,902: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:03:05,996: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:03:07,355: SecurityClientImpl#getUserActions()
+WARN  2011-02-03 12:03:07,355: Calling remote service on Event Dispatch Thread: [com.sensage.console.framework.security.SecurityHelper#hasWritePerm():83]
+INFO  2011-02-03 12:03:07,449: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:03:07,543: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:03:07,652: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:03:16,480: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:03:16,558: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:03:16,824: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:03:29,871: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:03:29,933: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:03:30,090: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:03:30,683: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:03:30,762: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:03:30,902: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:03:31,480: SecurityClientImpl#getUserActions()
+WARN  2011-02-03 12:03:31,480: Calling remote service on Event Dispatch Thread: [com.sensage.console.framework.security.SecurityHelper#hasWritePerm():83]
+INFO  2011-02-03 12:03:31,590: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:03:31,652: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:03:31,793: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:03:32,324: SecurityClientImpl#getUserActions()
+WARN  2011-02-03 12:03:32,324: Calling remote service on Event Dispatch Thread: [com.sensage.console.framework.security.SecurityHelper#hasWritePerm():83]
+INFO  2011-02-03 12:03:32,387: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:03:32,449: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:03:32,574: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:03:33,918: SecurityClientImpl#getUserActions()
+WARN  2011-02-03 12:03:33,918: Calling remote service on Event Dispatch Thread: [com.sensage.console.framework.security.SecurityHelper#hasWritePerm():83]
+INFO  2011-02-03 12:03:33,965: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:03:34,012: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:03:42,527: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 12:03:42,527: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 12:03:42,527: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 12:03:42,543: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 12:03:43,496: SecurityClientImpl#getUserActions()
+WARN  2011-02-03 12:03:43,496: Calling remote service on Event Dispatch Thread: [com.sensage.console.framework.security.SecurityHelper#hasWritePerm():83]
+INFO  2011-02-03 12:03:43,558: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:03:43,699: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:03:43,746: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:03:44,808: SecurityClientImpl#getUserActions()
+WARN  2011-02-03 12:03:44,824: Calling remote service on Event Dispatch Thread: [com.sensage.console.framework.security.SecurityHelper#hasWritePerm():83]
+INFO  2011-02-03 12:03:44,887: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:03:44,949: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:03:45,058: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:03:45,637: FolderClientImpl#getSubFolders()
+INFO  2011-02-03 12:03:46,230: SecurityClientImpl#getUserActions()
+WARN  2011-02-03 12:03:46,230: Calling remote service on Event Dispatch Thread: [com.sensage.console.framework.security.SecurityHelper#hasWritePerm():83]
+INFO  2011-02-03 12:03:46,277: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:03:46,324: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:03:46,840: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:03:51,324: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:03:51,402: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:03:51,652: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:03:57,652: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:03:57,730: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:03:57,871: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:04:01,574: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:04:01,652: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:04:01,777: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:04:03,433: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:04:03,496: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:04:03,668: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:04:05,558: SecurityClientImpl#getUserActions()
+WARN  2011-02-03 12:04:05,558: Calling remote service on Event Dispatch Thread: [com.sensage.console.framework.security.SecurityHelper#hasWritePerm():83]
+INFO  2011-02-03 12:04:05,637: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:04:05,715: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:04:05,871: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:05:22,637: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:05:22,715: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:05:22,933: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:10:18,558: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 12:10:18,652: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 12:10:18,808: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 12:22:27,980: SessionClient#refresh()
+INFO  2011-02-03 12:24:49,043: SessionClient#refresh()
+INFO  2011-02-03 12:52:27,980: SessionClient#refresh()
+INFO  2011-02-03 12:54:49,043: SessionClient#refresh()
+INFO  2011-02-03 13:22:27,980: SessionClient#refresh()
+INFO  2011-02-03 13:24:49,043: SessionClient#refresh()
+INFO  2011-02-03 13:52:27,980: SessionClient#refresh()
+INFO  2011-02-03 13:54:49,043: SessionClient#refresh()
+INFO  2011-02-03 14:22:27,980: SessionClient#refresh()
+INFO  2011-02-03 14:24:49,043: SessionClient#refresh()
+INFO  2011-02-03 14:52:27,980: SessionClient#refresh()
+INFO  2011-02-03 14:54:49,043: SessionClient#refresh()
+INFO  2011-02-03 15:22:27,980: SessionClient#refresh()
+INFO  2011-02-03 15:24:49,058: SessionClient#refresh()
+INFO  2011-02-03 15:52:27,980: SessionClient#refresh()
+INFO  2011-02-03 15:54:49,058: SessionClient#refresh()
+INFO  2011-02-03 16:22:27,980: SessionClient#refresh()
+INFO  2011-02-03 16:24:49,058: SessionClient#refresh()
+INFO  2011-02-03 16:52:27,980: SessionClient#refresh()
+INFO  2011-02-03 16:54:49,058: SessionClient#refresh()
+INFO  2011-02-03 17:15:28,637: ReportClientImpl#getReportFolder()
+INFO  2011-02-03 17:15:28,683: SecurityClientImpl#getAllRolesAndPermissions()
+INFO  2011-02-03 17:15:28,840: ReportClientImpl#searchReportsGetSummaryAttributes()
+INFO  2011-02-03 17:15:31,308: SessionClient#logout() user: srini
+INFO  2011-02-03 17:16:00,012: SessionClient#logout() user: administrator
+ERROR 2011-02-03 17:16:04,980: User logout timed out after 5000ms.

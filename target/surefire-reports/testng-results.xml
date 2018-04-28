@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Group of group Suite" duration-ms="23351" started-at="2018-04-27T12:15:51Z" finished-at="2018-04-27T12:16:14Z">
+    <groups>
+    </groups>
+    <test name="SimpleParamExample" duration-ms="23351" started-at="2018-04-27T12:15:51Z" finished-at="2018-04-27T12:16:14Z">
+      <class name="com.guru99.tests.TestGuru99LoginTests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99.tests.TestGuru99LoginTests@6276ae34]" name="setUp" is-config="true" duration-ms="6996" started-at="2018-04-27T12:15:51Z" finished-at="2018-04-27T12:15:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="testGuru99Login(java.lang.String, java.lang.String)[pri:0, instance:com.guru99.tests.TestGuru99LoginTests@6276ae34]" name="testGuru99Login" duration-ms="5187" started-at="2018-04-27T12:15:58Z" finished-at="2018-04-27T12:16:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr127486]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AsEpEvu]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="testGuru99Login(java.lang.String, java.lang.String)[pri:0, instance:com.guru99.tests.TestGuru99LoginTests@6276ae34]" name="testGuru99Login" duration-ms="5949" started-at="2018-04-27T12:16:03Z" finished-at="2018-04-27T12:16:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr127693]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vytYqUd]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="testGuru99Login(java.lang.String, java.lang.String)[pri:0, instance:com.guru99.tests.TestGuru99LoginTests@6276ae34]" name="testGuru99Login" duration-ms="4948" started-at="2018-04-27T12:16:09Z" finished-at="2018-04-27T12:16:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr127709]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ybYguqA]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.guru99.tests.TestGuru99LoginTests@6276ae34]" name="afterClass" is-config="true" duration-ms="139" started-at="2018-04-27T12:16:14Z" finished-at="2018-04-27T12:16:14Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

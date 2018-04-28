@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Group of group Suite" verbose="1">
+     
+  <parameter name="BrowserName"  value="chrome"/>
+  <test name="SimpleParamExample">
+      <classes>
+      
+      <!--  
+      <class name="com.guru99.tests.Test99GuruHomePage" >
+      <methods>
+        <include name="testGuru99TextItems" />
+      </methods>
+      </class>
+      
+      -->
+      <class name="com.guru99.tests.TestGuru99LoginTests" >
+      <methods>
+        <include name="testGuru99Login" />
+      </methods>
+      </class>
+  <!--  
+      <class name="com.guru99.tests.Test99GuruHomePage" >
+      
+        <methods>
+          
+        <include name ="test_Home_Page_DashBoard_clickSeleniumDropDown_CheckMenu"/>
+        
+           <include name ="test_Home_Page_DashBoard_UserName"/>
+        
+        <include name ="test_Home_Page_DashBoard_checkLinkStepsToGenerateAccess"/>
+        
+        <include name ="test_Home_Page_DashBoard_checkLoginButtonEnabled"/>
+       
+        </methods>
+        </class>
+               
+        <class name="com.guru99.tests.TestGuru99LoginTests" >
+           <methods>
+               <include name ="testGuru99Login"/>
+           </methods>
+        </class>
+      -->
+    </classes>
+  </test>
+  
+ <!-- 
+   <parameter name="BrowserName"  value="chrome"/>
+   <parameter name="HomePage"  value="http://facebook.com"/>
+
+  <test name="SimpleParamExample">
+      <classes>
+      <class name="com.facebook.tests.TestHomePage" >
+      <methods>
+        <include name="testFaceBookTitleOnPageLoad"/>
+      </methods>
+      </class>
+    </classes>
+    </test> 
+    
+   <parameter name="sUsername"  value="test"/>
+   <parameter name="sPassword"  value="test123"/>
+   <parameter name="BrowserName"  value="chrome"/>
+   <parameter name="HomePage"  value="http://facebook.com"/>
+  <test name="SimpleParamExample">
+      <classes>
+      <class name="com.facebook.tests.TestHomePage" >
+      <methods>
+        <include name="testUserLogin"/>
+      </methods>
+      </class>
+    </classes>
+    </test>   
+   
+       
+       
+  <test name="SimpleParamExample">
+  <parameter name="sFirstName"  value="test1234"/>
+   <parameter name="sLastName"  value="test123"/>
+   <parameter name="BrowserName"  value="firefox"/>
+   <parameter name="HomePage"  value="http://facebook.com"/>
+      <classes>
+      <class name="com.facebook.tests.TestHomePage" >
+      <methods>
+        <include name="verifyTextforCreateNewAccount"/>
+      </methods>
+      </class>
+    </classes>
+    </test>
+    -->
+</suite>

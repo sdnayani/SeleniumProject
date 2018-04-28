@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16" started-at="2018-04-09T00:27:34Z" finished-at="2018-04-09T00:27:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16" started-at="2018-04-09T00:27:34Z" finished-at="2018-04-09T00:27:34Z">
+      <class name="com.facebook.tests.seleniumTests">
+        <test-method status="FAIL" signature="testUserLogin(java.lang.String, java.lang.String)[pri:0, instance:com.facebook.tests.seleniumTests@7921b0a2]" name="testUserLogin" duration-ms="0" started-at="2018-04-09T00:27:34Z" finished-at="2018-04-09T00:27:34Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'sUsername' is required by @Test on method testUserLogin
+but has not been marked @Optional or defined in /private/var/folders/l7/qknc1bps5dgc2fqvhmh2rsrw0000gp/T/testng-eclipse-34163414/testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'sUsername' is required by @Test on method testUserLogin
+but has not been marked @Optional or defined in /private/var/folders/l7/qknc1bps5dgc2fqvhmh2rsrw0000gp/T/testng-eclipse-34163414/testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:143)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:343)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:435)
+	at org.testng.internal.Invoker.handleParameters(Invoker.java:1358)
+	at org.testng.internal.Invoker.createParameters(Invoker.java:1058)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1160)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:758)
+	at org.testng.TestRunner.run(TestRunner.java:613)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:87)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1137)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1062)
+	at org.testng.TestNG.run(TestNG.java:974)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
